@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/machinevision/static/css/main.35f0574f.css",
+    "main.js": "/machinevision/static/js/main.6cf18db8.js",
+    "static/js/910.8340e2e4.chunk.js": "/machinevision/static/js/910.8340e2e4.chunk.js",
+    "static/js/453.1b887949.chunk.js": "/machinevision/static/js/453.1b887949.chunk.js",
+    "index.html": "/machinevision/index.html",
+    "main.35f0574f.css.map": "/machinevision/static/css/main.35f0574f.css.map",
+    "main.6cf18db8.js.map": "/machinevision/static/js/main.6cf18db8.js.map",
+    "910.8340e2e4.chunk.js.map": "/machinevision/static/js/910.8340e2e4.chunk.js.map",
+    "453.1b887949.chunk.js.map": "/machinevision/static/js/453.1b887949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f0574f.css",
+    "static/js/main.6cf18db8.js"
+  ]
+}
